@@ -7,7 +7,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# 안녕하세요, <br> 윤채연입니다.
 
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
